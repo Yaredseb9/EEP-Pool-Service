@@ -7,11 +7,11 @@ import { DirectivesModule } from './directives/directives.module';
 import { Material2Module } from './material2.module';
 
 import { AppComponent } from './app.component';
-import { PortfolioComponent } from './portfolio/portfolio.component';
+import { InformationComponent } from './information/information.component';
 import { AboutComponent } from './about/about.component';
 import { HeadingComponent } from './heading/heading.component';
-import { PricingComponent } from './pricing/pricing.component';
-import { BlogComponent } from './blog/blog.component';
+import { TravelInformationComponent } from './TravelInformation/travel-information.component';
+import { PaymentOptionComponent } from './paymentOption/payment-option.component';
 import { ContactComponent } from './contact/contact.component';
 import { ContactDialogComponent } from './contact-dialog/contact-dialog.component';
 
@@ -20,11 +20,11 @@ import { ContactDialogComponent } from './contact-dialog/contact-dialog.componen
 @NgModule({
   declarations: [
     AppComponent,
-    PortfolioComponent,
+    InformationComponent,
     AboutComponent,
     HeadingComponent,
-    PricingComponent,
-    BlogComponent,
+    TravelInformationComponent,
+    PaymentOptionComponent,
     ContactComponent,
     ContactDialogComponent
   ],

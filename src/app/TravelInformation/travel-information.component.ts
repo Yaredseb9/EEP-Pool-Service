@@ -6,11 +6,11 @@ export interface Specification {
 }
 
 @Component({
-  selector: 'app-pricing',
-  templateUrl: './pricing.component.html',
-  styleUrls: ['./pricing.component.css']
+  selector: 'app-travel-information',
+  templateUrl: './travel-information.component.html',
+  styleUrls: ['./travel-information.component.css']
 })
-export class PricingComponent implements OnInit {
+export class TravelInformationComponent implements OnInit {
 
   isHeading = true;
 
