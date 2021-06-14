@@ -159,7 +159,7 @@
     "fromDate":" ከ ",
     "toDate":" እስከ ",
     "extendTime":"ሰዓት አርዝም",
-    "expectedDistance":"ግምት ኪሎ ሜትር",
+    
     "endTask": "ስምሪት አጠናቅ",
     "taskEndForm":"ስምሪት ማጠናቀቂያ ቅጽ",
     "actualDistanceInfo":"እባክዎን ከ አሽከርካሪው የተገኘ ትክክለኛውን ርቀት በኪሎ ሜትር ያስገቡ",
@@ -170,5 +170,8 @@
     "totlaHomeServiceUser":"የተጠቃሚ ብዛት",
     "draftRequest":"የፑል ጥያቄ ንድፍ",
     "cancelRequest":"ስርዝ",
-    "Confirmation":"ማረጋገጫ"
+    "Confirmation":"ማረጋገጫ",
+    "actualDistance":"የሸፈነው ኪሎ ሜትር",
+    "expectedDistance":"ግምት ኪሎ ሜትር",
+    "totalAssignment":"የስራ ብዛት"
 }
